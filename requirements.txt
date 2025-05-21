@@ -69,7 +69,7 @@ numba==0.61.0
 numpy==1.23.5
 openpyxl==3.1.5
 packaging==24.2
-pandas==2.1.0
+pandas==2.1.0  # Mise à jour vers la dernière version stable de pandas
 parso==0.8.4
 patsy==1.0.1
 phik==0.12.4
@@ -107,7 +107,6 @@ rpds-py==0.24.0
 scikit-learn==1.6.1
 scipy==1.15.2
 seaborn==0.13.2
-setuptools==80.8.0
 shellingham==1.5.4
 six==1.17.0
 smmap==5.0.2
